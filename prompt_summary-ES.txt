@@ -1,0 +1,5 @@
+Escribe un resumen detallado del siguiente texto:
+
+<<SUMMARY>>
+
+RESUMEN DETALLADO:

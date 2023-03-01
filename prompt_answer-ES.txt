@@ -1,0 +1,10 @@
+Da una respuesta detallada a la pregunta usando el siguiente fragmento de texto:
+
+
+PREGUNTA: <<QUERY>>
+
+
+FRAGMENTO: <<PASSAGE>>
+
+
+RESPUESTA DETALLADA:
